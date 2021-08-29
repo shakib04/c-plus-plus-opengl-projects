@@ -1,5 +1,6 @@
 # c-plus-plus-opengl-projects
-Repository for computer graphics project and practice using c++ and opengl libray. 
+Repository for computer graphics project and practice using c++ and opengl libray.
+
 Course Name: Computer Graphics
 Course Duration: 03 Months (May, 2021 - August, 2021)
 
